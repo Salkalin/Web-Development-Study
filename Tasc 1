@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Задание по HTML</title>
+ </head>
+ <body>
+  <p><a href="#top"></a></p>
+  <h1>Иосиф Бродский</h1>
+  <p><img src="https://lh3.googleusercontent.com/LTwoO1HJhx1KyobhNMx_PCKpcCRgF-Ku8n8OVdWw1DmyxJSHxcOtNAdZrEMKy_ikilpzS_jhxY-VWg=w1366-h637" alt="Письма мастера дзен"></p>
+  <ul>
+     <li><a href="#poems">Стихи о слепых музыкантах</a></li>
+     <li><a href="#video">Видео</a></li>
+  </ul>
+   <p><a name="poems"></a></p> 
+   <h2>Стихи о слепых музыкантах</h2>
+    <p>Слепые блуждают<br>
+         ночью.<br>
+     Ночью намного проще<br>
+     перейти через площадь.<br>
+     <p>Слепые живут<br>
+         наощупь,<br>
+     трогая мир руками,<br>
+     не зная света и тени<br>
+     и ощущая камни:<br>
+     из камня делают<br>
+         стены.<br>
+     За ними живут мужчины.<br>
+     Женщины.<br>
+        Дети.<br>
+         Деньги.<br>
+     Поэтому<br>
+     несокрушимые<br>
+     лучше обойти<br>
+         стены.<br>
+     А музыка -- в них<br>
+     упрется.<br>
+     Музыку поглотят камни.<br>
+     И музыка<br>
+     умрет в них,<br>
+     захватанная руками.<br>
+     Плохо умирать ночью.<br>
+     Плохо умирать<br>
+         наощупь.</p>
+     <p>Так, значит, слепым -- проще...<br>
+     Слепой идет<br>
+         через площадь.</p>
+   <p><a name="video"></a></p> 
+   <h2>Ниоткуда с любовью</h2>
+  <!-- Комментарий -->
+  <video controls="controls">
+       <source src="https://r8---sn-n8v7zn7k.c.drive.google.com/videoplayback?id=e89bebbd220dcd1d&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-n8v7zn7k&ms=nxu&mv=u&nh=IgpwcjAzLnN2bzA1KgkxMjcuMC4wLjE&pl=17&sc=yes&ttl=transient&ei=fLifWtWcIYbN-gX8pbvYCg&susc=dr&driveid=17XweWwCR9B8HqSB_RLCqz9ZaS1YPuQhL&app=texmex&mime=video/mp4&lmt=1519068886330093&mt=1520416044&ip=83.102.131.35&ipbits=0&expire=1520431292&cp=QVNHUkVfUFJXQ1hOOlBqVHJqTkhnRDdj&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,nh,pl,sc,ttl,ei,susc,driveid,app,mime,lmt,cp&signature=10FD5566BB4CFE57B6C9AAC6EFA2F913BFCEC3C5.29A34D3AF9D416C4162D538802B699D7739CBE61&key=ck2&cpn=8BFM4EnT9dZ1ofbG&c=WEB_EMBEDDED_PLAYER&cver=20180305" type="video/mp4">
+  </video>
+  <p><a href="#top">Наверх</a></p>
+ </body>
+</html>
