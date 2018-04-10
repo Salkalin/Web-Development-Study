@@ -1,0 +1,17 @@
+form .row {
+display: block;
+padding: 7px 8px;
+margin-bottom: 7px;
+}
+form .row:hover {
+background: #f1f7fa;
+}
+
+form label {
+display: inline-block;
+font-weight: bold;
+width: 120px;
+padding: 6px 0;
+color: #464646;
+vertical-align: top;
+}

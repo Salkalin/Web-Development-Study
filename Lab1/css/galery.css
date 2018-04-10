@@ -1,0 +1,23 @@
+.photo {
+background: #d9dabb;
+width: 320px; 
+margin: 10px 10px 10px 0;
+padding: 10px 0; 
+text-align: center; 
+display: inline-block;
+}
+.photo img {
+border: 2px solid #8b8e4b; 
+width: 300px;
+}
+.photo p {
+margin: 0; 
+}
+
+#main { 
+color: #444444;
+font-family: "Georgia";
+font-size: 13px; 
+line-height: 18px;
+text-align: center;
+} 
